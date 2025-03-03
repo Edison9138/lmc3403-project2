@@ -74,7 +74,7 @@ flask run
 
 This starts the API on port 5000. You can test it by visiting http://127.0.0.1:5000/hello.
 
-The npm commands are just shortcuts—check package.json at the root directory to see what they do.
+The npm commands are just shortcuts—check `package.json` at the root directory to see what they do.
 
 ### Conda basics
 
