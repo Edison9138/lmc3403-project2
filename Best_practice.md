@@ -101,4 +101,4 @@ This folder is meant for experimentation and proof of concept. You don't have to
 
 ### Variables
 
-The frontend uses mainly camelCase to follow the javaScript convention, where as the backend uses snake_case for Python convention. This choice is made to have a sense of separation in frontend and backend. Follow the API documentation to make sure the input fields for API has the same name for the both ends.
+The frontend uses mainly camelCase to follow the javaScript convention, whereas the backend uses snake_case for Python convention. This choice is made to have a sense of separation in frontend and backend. Follow the API documentation to make sure the input fields for API has the same name for the both ends.
