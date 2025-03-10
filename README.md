@@ -2,13 +2,24 @@
 
 **Topic -** Dev Guide For “Rita” Project - <https://github.com/Andrew920528/rita-cfc-2024>
 
+**Intro/Context** - This project contains a set of documents to serve as guidelines working on the project "Rita." Edison and I work on the project “Rita” in a team of 5. Rita is a full stack application that uses React.js for frontend, Flask backend, and AWS for our database. As the project grows and the tasks of each teammate become more and more involved, we need a dev guide to ensure the team is following consistent and best practices for the scalability of the project.
+
 **Medium** - Google doc and Markdown
 
 **Goal** - A collection of documents that help a teammate to be on track with all parts of the project.
 
-**Audience** - Teammate working on the project (programmer with >1 of dev experience), or new teammate that wanted to contribute to the project.
+**Audience** - Teammate working on the project (programmer with >1 of dev experience), or new teammate that wanted to contribute to the project. The instructor of this course is our secondary audience.
 
-**Context** - Edison and I work on the project “Rita” in a team of 5. Rita is a full stack application that uses React.js for frontend, Flask backend, and AWS for our database. As the project grows and the tasks of each teammate become more and more involved, we need a dev guide to ensure the team is following consistent and best practices for the scalability of the project.
+**Prereqs/Requirements** -
+You are expected to have basic knowledge of the following tech stacks
+- Management
+  - [github](https://github.com/), [git](https://git-scm.com/), [Markdown](https://www.markdownguide.org/)
+- Frontend
+  - [npm](https://www.npmjs.com/), [Typescript/Tsx](https://www.typescriptlang.org/), [React](https://react.dev/)
+- Backend
+  - [conda](https://anaconda.org/anaconda/conda), [Python](https://www.python.org/), [Flask](https://flask.palletsprojects.com/en/stable/), [Amazon RDS](https://aws.amazon.com/rds/?p=ft\&c=db\&z=3), [LangChain](https://www.langchain.com/)
+
+**Safety Information** - When following the guidelines, be aware that sensitive information such as API keys and passwords should not be shared to others. It is recommended to use `.env` file for handling such info. Also check for safety notices (deprecation warning, etc.) when downloading any packages. 
 
 **Scope** -
 - Doc 0 \[README.md]: Project 2 context, goal, and other required information for secondary audiences
@@ -36,14 +47,6 @@
     - Using notebooks for modularized testing
     - Where to observe logs, and how to toggle ‘verbose’ flag
     - Using flags for frontend-less testing
-
-**Prereqs/Requirements** -
-- Management
-  - [github](https://github.com/), [git](https://git-scm.com/), [Markdown](https://www.markdownguide.org/)
-- Frontend
-  - [npm](https://www.npmjs.com/), [Typescript/Tsx](https://www.typescriptlang.org/), [React](https://react.dev/)
-- Backend
-  - [conda](https://anaconda.org/anaconda/conda), [Python](https://www.python.org/), [Flask](https://flask.palletsprojects.com/en/stable/), [Amazon RDS](https://aws.amazon.com/rds/?p=ft\&c=db\&z=3), [LangChain](https://www.langchain.com/)
 
 **References:**
 - _Conda | anaconda.org_. (n.d.). <https://anaconda.org/anaconda/conda>
