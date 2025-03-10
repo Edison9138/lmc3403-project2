@@ -24,10 +24,16 @@ npm run gui:indep
 This will open the GUI in your browser. These are custom scripts to simplify the process, but you can also manually run:
 
 ```sh
+
 cd gui
 npm install
 npm start
 ```
+
+
+You shoud see this if you go to http://localhost:3000/
+<img width="800" alt="截圖 2025-03-09 晚上9 33 39" src="https://github.com/user-attachments/assets/a5dea086-efa6-4978-8a65-44791bbd2e2e" />
+
 
 ### Note on `npm install`
 
