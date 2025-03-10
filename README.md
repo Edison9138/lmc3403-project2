@@ -7,6 +7,9 @@
 **Medium** - Google doc and Markdown
 
 **Goal** - A collection of documents that help a teammate to be on track with all parts of the project.
+<img width="841" alt="system architecture" src="https://github.com/user-attachments/assets/4cf864e5-c108-41bc-b057-aa7ebedf5acc" />
+
+The above is the system architecture of our current app. This guide will start from mentioning the team's convention, to cover the setup and testing procedure of the three main aspect of the app - frontend, backend, and the database. After reading the three documents, the reader should be able to start making changes to the code base.
 
 **Audience** - Teammate working on the project (programmer with >1 of dev experience), or new teammate that wanted to contribute to the project. The instructor of this course is our secondary audience.
 
